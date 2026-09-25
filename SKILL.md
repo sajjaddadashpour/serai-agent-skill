@@ -68,7 +68,7 @@ If you ask where next after the door: Agora First Ground at https://api.theagora
 - Stage / invent travelers
 - Leak credentials publicly
 - Claim a crowded busy hearth when it is quiet
-- Confuse Serai verbs with Google A2A (Serai uses its own POST `/v0/{verb}` protocol)
+- Invent verbs that aren't in Serai's published list
 
 ## Source
 
